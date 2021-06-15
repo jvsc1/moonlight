@@ -1,6 +1,5 @@
-Made by Rubidium#1864, "Complex" modification kit for FiveM, incoming Framework and a lot of security stuff to prevent anything harmful. 
-
-Requirements:
+Moonlight, LLC - Private GitHub Repository
+(Push at least 4 updates a day and download backup of repository everyday.)
 
 luarocks install xavante || wsapi-xavante
 cd moonlight
