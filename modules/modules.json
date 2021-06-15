@@ -1,0 +1,27 @@
+{
+  "type": "module",
+    "backend_type": "server",
+    "content": [
+      {
+        "type": "module",
+        "engine": "moonlight",
+        "version": "1.0.0",
+        "content": [
+          {
+            "type": "script",
+            "key": "server_scripts"
+          },
+          {
+            "type": "script",
+            "content": {
+              "type": "script",
+              "maps": [
+				"main": "server",
+                "child", "shared"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+}
