@@ -1,0 +1,13 @@
+Tasks:
+
+<egeturkerapple@gmail.com>:
+
+* Make changes on "database.rb" to get it working with SQLite 3
+* Create a shell-script to administrate database module
+* Get rid out of the YAML type configurating.
+
+
+<srxubuntu@gmail.com>:
+
+* List all of the FiveM natives (even unidentified ones) and create a file called "natives.json"
+* Start to doing FiveM things
