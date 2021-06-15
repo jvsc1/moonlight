@@ -1,0 +1,11 @@
+on init
+    export ADMIN /module/admin
+    export CONFIGURATION /_configs
+    export IN_GAME /engine
+    export DATABASE /modules/database
+
+    mkdir /CONFIGURATION
+
+    mkdir /mnt 0775 root root
+
+    #mount /tmp /tmp tmpfs  
