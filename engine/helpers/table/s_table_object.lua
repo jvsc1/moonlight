@@ -3,7 +3,7 @@ Table = Table or {}
 local _directory = "game_engine/helpers/table"
 local _directory_type = "lua54"
 
-local function Table:Proxy(pTable, newindex, pBase)
+function Table:Proxy(pTable, newindex, pBase)
     return setmetatable(pBase or {}, {
       __index = pTable,
       __newindex = function (_, k, v) return newindex(pTable, k, v) end,
