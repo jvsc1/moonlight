@@ -16,7 +16,7 @@
             "content": {
               "type": "script",
               "maps": [
-				"main": "server",
+		"main", "server",
                 "child", "shared"
               ]
             }
