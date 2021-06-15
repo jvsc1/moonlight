@@ -1,0 +1,2 @@
+ON_SERVER_JOIN   = 		0x00000704    
+ON_SERVER_LEFT   =      0x00000705   
