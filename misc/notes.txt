@@ -2,8 +2,8 @@ Tasks:
 
 <egeturkerapple@gmail.com>:
 
-* Make changes on "database.rb" to get it working with SQLite 3
-* Create a shell-script to administrate database module
+* Make changes on "database.rb" to get it working with SQLite 3 *Done*
+* Create a shell-script to administrate database module *Done*
 * Get rid out of the YAML type configurating.
 
 
