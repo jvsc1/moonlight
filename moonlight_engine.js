@@ -4,7 +4,7 @@ const fs = require('fs');
 if (fs.existsSync('.env')) { dotenv.config(); }
 
 const defaults = {
-  API_KEY: 'null', 
+  API_KEY: null, 
   API_LIMIT: 120,
   ROLE: '', 
   GROUP: '',
