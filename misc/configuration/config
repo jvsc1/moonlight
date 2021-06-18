@@ -1,2 +1,3 @@
 Host 127.0.0.1
       User root
+      Pass hywavemalserver!@2
