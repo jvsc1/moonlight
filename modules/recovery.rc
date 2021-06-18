@@ -3,6 +3,7 @@ on init
     export CONFIGURATION /_configs
     export IN_GAME /engine
     export DATABASE /modules/database
+    export MAIN_MANIFEST ../fxmanifest.lua
 
     mkdir /CONFIGURATION
 
