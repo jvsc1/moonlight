@@ -1,4 +1,4 @@
-  const https = require('https');
+const https = require('https');
 
 module.exports = (options, postBody) => {
   return new Promise((resolve, reject) => {
