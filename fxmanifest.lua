@@ -8,7 +8,7 @@
 '*
 --]]
 
-IS_DEBUG, IS_DEV, IS_ROOT = true, true, false
+IS_DEBUG, IS_DEV, IS_ROOT, IS_ENV = true, true, false, true
 
 fx_version 'cerulean'
 games 'common'
